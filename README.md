@@ -1,5 +1,5 @@
-# textfromimage
-Convert text in screenshot image to text with python
+# textfromimage - Opensource
+Convert text in screenshot image to text with python 
 
 ## Installation
 
